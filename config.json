@@ -1,0 +1,10 @@
+{
+  "API_SERVER": "http://qamsqueue-back.nmm.cc/api",
+  "API_SERVER_NEW": "http://qainternalapi.nmm.cc",
+  "UMS_SERVER": "http://qaums.nmm.cc",
+  "UMS_CLIENT_ID": "ng-client",
+  "UMS_CLIENT_SECRET": "ngngngng",
+  "USE_FAKE_API": false,
+  "IS_PROD": false,
+  "COMPLETE_QUEUE": 107
+}
